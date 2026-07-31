@@ -36,7 +36,8 @@ This project was built to practice frontend development fundamentals, including 
 
 ## 📸 Screenshot
 
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/ff673bfb-0ae4-44d4-8883-4c4b38e412b1" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/cbcde4c4-f632-43a8-b51d-d7c4d2b62566" />
+
 
 
 ## 👨‍💻 Author

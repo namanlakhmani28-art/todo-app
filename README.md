@@ -1,8 +1,8 @@
-# Todo App ✅
+# Todo App 
 
 A simple and responsive Todo application built using **HTML, CSS, and Vanilla JavaScript**.
 
-## 🚀 Features
+##  Features
 
 - Add new tasks
 - Delete tasks
@@ -10,10 +10,35 @@ A simple and responsive Todo application built using **HTML, CSS, and Vanilla Ja
 - Dynamic task creation using JavaScript DOM manipulation
 - Responsive design
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - HTML5
 - CSS3
 - JavaScript
 
-## 📂 Project Structure
+## Project Structure
+ 
+  todo-app/
+  │
+  ├── index.html
+  ├── style.css
+  ├── script.js
+  └── README.md
+
+
+## 🎯 Purpose
+
+This project was built to practice frontend development fundamentals, including HTML structure, CSS styling, and JavaScript event handling.
+
+## 🌐 Live Demo
+
+
+
+## 📸 Screenshot
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/ff673bfb-0ae4-44d4-8883-4c4b38e412b1" />
+
+
+## 👨‍💻 Author
+
+Naman Lakhmani

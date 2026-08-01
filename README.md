@@ -32,7 +32,7 @@ This project was built to practice frontend development fundamentals, including 
 
 ## 🌐 Live Demo
 
-
+https://namanlakhmani28-art.github.io/todo-app/
 
 ## 📸 Screenshot
 
